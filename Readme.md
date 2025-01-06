@@ -1,9 +1,4 @@
 
-![CDW Presentation](https://drive.google.com/file/d/1EKR3Cj80FlTDi3MS1yphmKylA5zB2_75/view?usp=sharing)
-
-
-# README.md
-
 ## Domain Training Data
 
 This section outlines the various learning resources and activities undertaken to develop expertise in the following domains:
